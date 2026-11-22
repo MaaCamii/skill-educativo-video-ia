@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "titulo": "¿Qué es la separación de poderes?",
+    "objetivo": "Entender por qué el poder se divide en tres ramas.",
+    "contexto": "Reel educativo de ejemplo. Público joven, Instagram.",
+    "plataforma": "reels",
+    "idioma": "es",
+    "fps": 30,
+    "ancho": 1080,
+    "alto": 1920,
+    "voiceName": "Sarah"
+  },
+  "paleta": {
+    "fondo": "#0B1020",
+    "fondo2": "#161E3A",
+    "texto": "#FFFFFF",
+    "primario": "#FFD54A",
+    "acento": "#4ADE80",
+    "burbuja": "#1F2A4D"
+  },
+  "escenas": [
+    {
+      "id": "s1",
+      "narracion": "¿Por qué ninguna persona, en una democracia, debería hacer las leyes, aplicarlas y juzgarlas al mismo tiempo?",
+      "subtitulo": "¿Por qué nadie debería hacer, aplicar y juzgar las leyes a la vez?",
+      "visual": { "tipo": "formas", "estilo": "pregunta" },
+      "burbujas": [
+        { "texto": "El problema", "emoji": "🤔", "posicion": "top", "entraEnS": 0.3, "duraS": 2.8, "tipo": "idea" }
+      ],
+      "emojisFlotantes": ["⚖️", "🏛️"],
+      "referencias": []
+    },
+    {
+      "id": "s2",
+      "narracion": "Por eso el poder se divide en tres ramas que se vigilan entre sí: la legislativa hace las leyes, la ejecutiva las aplica, y la judicial las interpreta.",
+      "subtitulo": "Tres ramas que se vigilan: legislativa, ejecutiva y judicial.",
+      "visual": { "tipo": "formas", "estilo": "concepto" },
+      "burbujas": [
+        { "texto": "Separación de poderes", "emoji": "⚖️", "posicion": "top", "entraEnS": 0.4, "duraS": 3.6, "tipo": "concepto" }
+      ],
+      "emojisFlotantes": ["🏛️", "👩‍⚖️", "📜"],
+      "referencias": [{ "texto": "Art. 113 C.P.", "emoji": "📜" }]
+    },
+    {
+      "id": "s3",
+      "narracion": "Si una sola rama concentrara todo el poder, no habría quién la controle. La división no debilita: protege tu libertad.",
+      "subtitulo": "Dividir el poder no lo debilita: protege tu libertad.",
+      "visual": { "tipo": "formas", "estilo": "cierre" },
+      "burbujas": [
+        { "texto": "La clave", "emoji": "💡", "posicion": "top", "entraEnS": 0.3, "duraS": 3.0, "tipo": "idea" }
+      ],
+      "emojisFlotantes": ["🛡️", "🗽"],
+      "referencias": []
+    }
+  ]
+}
